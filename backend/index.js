@@ -1,3 +1,4 @@
+// Trigger full Docker rebuild for bcryptjs
 require('dotenv').config();
 const express = require('express');
 const mongoose = require('mongoose');
